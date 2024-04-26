@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Change Text Color
+
+To change the color of the text in your React application, you can use CSS styles. Here's how you can do it:
+
+1. Open the `App.css` file in your project.
+
+2. Add a new CSS rule to change the color of the text. For example:
+
+```css
+.App {
+  color: blue; /* Change the color to your desired color */
+}
+
